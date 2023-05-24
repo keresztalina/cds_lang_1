@@ -4,7 +4,7 @@ This assignment is ***Part 1*** of the portfolio exam for ***Language Analytics 
 ## 1.1. Contribution
 The initial assignment was created partially in collaboration with other students in the course, also making use of code provided as part of the course. The final code is my own. Several adjustments have been made since the initial hand-in.
 
-Here is the link to the GitHub repository containing the code for this assignment: ADD
+Here is the link to the GitHub repository containing the code for this assignment: https://github.com/keresztalina/cds_lang_1
 
 ## 1.2. Assignment description by Ross
 *(**NB!** This description has been edited for brevity. Find the full instructions in ```README_rdkm.md```.)*
